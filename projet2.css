@@ -1,0 +1,235 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#h1{
+   
+    color: rgb(100, 84, 65);
+    float: left;
+    font-size:  1.5em;
+    background-color: rgb(217, 146, 59);
+    border-radius: 40%;
+    text-align: center;
+    margin-top: 8px;
+}
+ul{
+    float: right;
+   list-style: none;
+   text-align: center;
+    
+}
+li{
+    float: right;
+    padding: 10px;
+    font-size: 18px;
+    
+}
+a{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+li a:hover {
+    background-color: rgb(240, 221, 185);
+}
+nav{
+   
+    background-color: burlywood;
+   height: 50px;
+   position: fixed;
+   width: 100%;
+}
+#btn1{
+    background-color: burlywood;
+    color: honeydew;
+    font-size: 1em;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+#btn2{
+    background-color: honeydew;;
+    color: burlywood;
+    font-size: 1em;
+    padding: 10px;
+    width: 220px;
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+      
+}
+#a1{
+    color:honeydew;
+
+}
+#a{
+    color:burlywood ;
+}
+
+#container{
+    padding-top: 60px;
+    background: url(immg.jpg) no-repeat fixed 1px 50px;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    text-align:left;
+    background-attachment: fixed;
+    opacity: 0.9;
+   
+}
+#h2{
+    font-size: 80px;
+    color:rgb(218, 151, 26);
+
+    margin:20px;
+
+
+}
+.ph{
+    margin: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+}
+#info h2{
+    text-align: center;
+    margin: 50px;
+    font-weight: bold;
+    color: rgb(100, 84, 65);
+
+}
+#info h3 {
+   margin-left: 40px;
+    font-weight:bold ;
+}
+#info p{
+    margin-left: 40px;
+}
+#info i{
+    color: burlywood;
+    
+}
+.btn-primary {
+   background-color: burlywood;
+   border: none;
+}
+
+body{
+    background-color: rgb(241, 237, 232);
+}
+#service{
+    background-color:burlywood;
+    border-radius: 50px;
+    height: 1000px;
+}
+#service h2{
+    margin: 25px;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 30px;
+}
+#div2{
+    margin: 25px;
+
+}
+#dev1{
+    margin: 25px;
+}
+#suivi h3 {
+    font-weight: bold;
+    padding: 25px;
+    font-size: 1.5em;
+    color: rgb(100, 84, 65);
+    
+}
+#suivi p{
+    padding-left: 25px;
+}
+#avis img{
+    border-radius: 100%;
+}
+#avis h6{
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+#avis h2{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 40px;
+}
+#contact{
+    background-color: burlywood;
+    height: 700px;
+  
+}
+#contact h2{
+    
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px;
+    padding: 15px;
+}
+#contact p{
+    padding-top: 15px;
+    margin-left: 15px;
+
+}
+#btn{
+    background-color: white;
+    border: none;
+    color: burlywood;
+    margin-top:10px  ;
+
+}
+#btnn{
+    background-color: white;
+    border: none;
+    color: burlywood;
+    margin-top:10px ;
+    margin-left: 40px;
+}
+
+
+footer{
+    
+    color: black;
+    margin: 15px;
+    
+}
+footer h1{
+    font-size: 2em;
+    color:rgb(100, 84, 65); ;
+
+
+}
+#deuxiemeTrait{
+    height: 1px;
+    width: 60%;
+    background-color:black;
+    margin: 60PX auto;
+}
+#copyrightEtIcons{
+    text-align: center;
+    margin-bottom: 25px;
+}
+footer i{
+    font-size: 1.5em;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+#icon{
+    font-size: 1em;
+    padding: 3px; ;
+}
+
+
+
+
